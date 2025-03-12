@@ -5,6 +5,8 @@
  */
 
 #include <Adafruit_BMP085.h>
+#include <Adafruit_GFX.h>   
+#include <Adafruit_ST7789.h>
 
 void setup() {
   Adafruit_BMP085 bmps;
